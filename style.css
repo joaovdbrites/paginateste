@@ -56,7 +56,7 @@ body {
 .banner {
   position: relative;
   height: 50%;
-  background: url("/imag/image.png") center center / cover no-repeat;
+  background: url("/image.png") center center / cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
