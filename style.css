@@ -283,7 +283,7 @@ body {
 }
 */
 #bullets {
-  margin: 150px 0 0;
+  margin: 10px 0 0;
   text-align: center;
 }
 #bullets label {
@@ -323,7 +323,7 @@ body {
 .noticiaprincipal {
   display: flex;
   justify-items: center;
-  align-items: center;
+
   margin: 20px;
 }
 
@@ -341,19 +341,19 @@ body {
 }
 
 .item1 {
-  background: url("/imag/demo1.jpg") center center / cover no-repeat;
+  background: url("imag/demo1.jpg") center center / cover no-repeat;
 }
 
 .item2 {
-  background: url("/imag/demo1.jpg") center center / cover no-repeat;
+  background: url("imag/demo1.jpg") center center / cover no-repeat;
 }
 
 .item3 {
-  background: url("/imag/demo1.jpg") center center / cover no-repeat;
+  background: url("imag/demo1.jpg") center center / cover no-repeat;
 }
 
 .item4 {
-  background: url("/imag/demo1.jpg") center center / cover no-repeat;
+  background: url("imag/demo1.jpg") center center / cover no-repeat;
 }
 
 /* FIM DO NOTICIA PRINCIPAL */
