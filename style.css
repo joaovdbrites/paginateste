@@ -360,3 +360,35 @@ body {
 
 /* INICIO BANNER SLIDE */
 
+/* INICIO rodapé */
+
+.footer {
+  width: 100%;
+  max-width: 1200px;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 30px;
+  padding: 50px 20px;
+  color: #333;
+  font-family: "Open Sans", sans-serif;
+}
+
+.footer h6 {
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 12px;
+  color: #003d75;
+}
+
+.footer p {
+  line-height: 1.6;
+}
+
+.zap-img {
+  width: 140px;
+  margin-bottom: 15px;
+}
+
+
+/* FIM rodapé */
