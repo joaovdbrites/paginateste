@@ -361,6 +361,7 @@ body {
 /* INICIO PDF */
 
 .img-link img {
+  margin: 10px;
   width: 100px;
   transition: 0.3s;
 }
@@ -401,6 +402,7 @@ body {
   width: 140px;
   margin-bottom: 15px;
 }
+
 
 
 /* FIM rodapé */
