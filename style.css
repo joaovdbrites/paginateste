@@ -361,7 +361,7 @@ body {
 /* INICIO PDF */
 
 .img-link img {
-  margin: 10px;
+  margin: 20px;
   width: 100px;
   transition: 0.3s;
 }
